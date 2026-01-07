@@ -2,8 +2,6 @@
 
 ### Good at making things better
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinoali88&label=Profile views&color=0e75b6&style=flat" alt="akinoali88" /> </p>
-
 - 🔭 I'm currently working on **making analytical tools better, improving financial models and telling stories with data**
 
 - 💬 Ask me about **data pipelines, financial modelling at scale, data visualisation**
