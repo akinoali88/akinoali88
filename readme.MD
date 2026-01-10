@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akin Stapley-Ali
+# Hi 👋
 
 ### Good at making things better
 
